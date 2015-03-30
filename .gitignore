@@ -25,3 +25,10 @@ proguard/
 
 # Log Files
 *.log
+
+# OS X
+.DS_Store
+
+# cordova
+platforms
+plugins
